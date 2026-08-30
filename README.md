@@ -1,7 +1,7 @@
-# Ishita Jhunjhunwala — Portfolio
+# Ishita Jhunjhunwala — Product Portfolio
 
 Static site. No build step, no dependencies — just HTML/CSS.
-Hosted at ishitajhunjhunwala.github.io
+[View my Product Portfolio here](https://ishitajhunjhunwala.github.io/)
 
 ## Files
 - `index.html` — page content
