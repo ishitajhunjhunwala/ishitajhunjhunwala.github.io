@@ -1,6 +1,7 @@
 # Ishita Jhunjhunwala — Portfolio
 
 Static site. No build step, no dependencies — just HTML/CSS.
+Hosted at ishitajhunjhunwala.github.io
 
 ## Files
 - `index.html` — page content
