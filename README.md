@@ -1,6 +1,5 @@
 # Ishita Jhunjhunwala — Product Portfolio
 
-Static site. No build step, no dependencies — just HTML/CSS.
 [View my Product Portfolio here](https://ishitajhunjhunwala.github.io/)
 
 ## Files
@@ -12,5 +11,5 @@ Static site. No build step, no dependencies — just HTML/CSS.
 ## Adding a new case study
 Duplicate the `<a class="row">...</a>` block in `index.html`, update the number, title, tag, description, thumbnail, and PDF link. Bump `002` → point at the real project and add a fresh `00X — Next case study in progress` placeholder row after it if you want to keep that convention.
 
-## Local preview
-Just open `index.html` in a browser — no server needed. (Or run `python3 -m http.server` from this folder.)
+## Other Details
+Static site. No build step, no dependencies — just HTML/CSS.
