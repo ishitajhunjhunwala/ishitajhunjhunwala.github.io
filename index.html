@@ -45,11 +45,15 @@
           <span>Résumé</span><i>↗</i>
         </a>
       </nav>
+      <nav class="links" style="margin-top: 14px;">
+        <a href="#built"><span>Built & Shipped</span><i>↓</i></a>
+        <a href="#case-studies"><span>Case Studies</span><i>↓</i></a>
+      </nav>
     </div>
   </header>
 
   <main>
-        <section class="featured">
+        <section class="featured" id="built">
       <div class="wrap">
         <div class="ledger__head">
           <h2>Built &amp; shipped</h2>
@@ -81,13 +85,13 @@
         <a class="featured__cta" href="https://sevalog.vercel.app" target="_blank" rel="noopener">Try the live demo <i>↗</i></a>
       </div>
     </section>
-    <section class="ledger">
+    <section class="ledger" id="case-studies">
       <div class="wrap">
         <div class="ledger__head">
           <h2>Case studies</h2>
           <span class="count">3 entries</span>
         </div>
-
+        <div class="ledger__grid">
         <a class="row" href="assets/matiks-teardown.pdf" target="_blank" rel="noopener">
           <span class="row__no">001</span>
           <span class="row__thumb">
@@ -133,7 +137,7 @@
           </span>
           <span class="row__cta">View PDF <i>↗</i></span>
         </a>
-
+        </div>
         <div class="row row--empty">
           <span class="row__no">004</span>
           <span class="row__body row__body--empty">
