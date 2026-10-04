@@ -319,6 +319,7 @@ a.row:hover .row__thumb img { transform: scale(1.04); }
 .featured__card {
   display: block;
   margin-bottom: 26px;
+  margin-top: 20px;
 }
 .featured__thumb {
   display: block;
@@ -329,6 +330,7 @@ a.row:hover .row__thumb img { transform: scale(1.04); }
   border: 1px solid var(--line);
   background: #0A0D12;
   transition: border-color 0.2s ease;
+  margin-bottom: 14px;
 }
 .featured__thumb img {
   width: 100%; height: 100%;
