@@ -375,7 +375,7 @@ a.row:hover .row__thumb img { transform: scale(1.04); }
 }
 
 .featured__write-up {
-  max-width: 68ch;
+  max-width: none;
   margin-top: 22px;
 }
 .featured__write-up p {
@@ -387,7 +387,7 @@ a.row:hover .row__thumb img { transform: scale(1.04); }
 .featured__write-up p:last-child { margin-bottom: 0; }
 
 .featured__reflect {
-  max-width: 68ch;
+  max-width: none;
   margin-top: 26px;
   padding-left: 18px;
   border-left: 2px solid var(--line);
